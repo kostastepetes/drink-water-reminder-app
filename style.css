@@ -102,3 +102,10 @@ h3 {
   text-align: center;
   margin: 0 0 5px;
 }
+
+.plus-minus {
+  border-radius: 30%;
+  border: 3px solid #144fc6 ;
+  color: #144fc6;
+  font-size: x-large;
+}
